@@ -44,12 +44,16 @@ int main()
 	
 
 	// PVL
+	printf("Symbol: PVL\n");
+	printf("Price: $1.80\n");
+	printf("Dividend Rate: 0.035\n");
+	printf("Cash per week: $500\n");
 	double shares = 10304.216;
 	double cash = 0;
 	double dividend = 0;
-	double price = 1.62;
-	double dividendRate = 0.0268;
-	double cashForStocksPerWeek = 0;
+	double price = 1.8;
+	double dividendRate = 0.035;
+	double cashForStocksPerWeek = 500;
 	unsigned short year = 0;
 	unsigned short monthsPerDividend = 1;
 		/*
