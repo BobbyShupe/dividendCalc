@@ -14,7 +14,7 @@ int main()
 	_day = local->tm_mday;
 	_month = local->tm_mon + 1;
 	_year = local->tm_year + 1900;
-	printf("%02d/%02d/%d\n",_day,_month,_year);
+	printf("%02d/%02d/%d",_day,_month,_year);
 
 		/*
 
@@ -44,7 +44,7 @@ int main()
 	
 
 	// PVL
-	printf("Symbol: PVL\n");
+	printf("PVL\n");
 	printf("Price: $1.80\n");
 	printf("Dividend Rate: 0.035\n");
 	printf("Cash per week: $500\n");
