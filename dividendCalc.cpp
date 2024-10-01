@@ -14,7 +14,7 @@ int main()
 	_day = local->tm_mday;
 	_month = local->tm_mon + 1;
 	_year = local->tm_year + 1900;
-	printf("%02d/%02d/%d",_day,_month,_year);
+	printf("%02d/%02d/%d",_year,_month,_day);
 
 		/*
 
@@ -30,18 +30,24 @@ int main()
 	unsigned short monthsPerDividend = 3;
 
 
+*/	
 
 	//PRT
-	double shares = 846.6116;
-	double cash = 7.6;
+	printf("PRT\n");
+	printf("Price: $3.83\n");
+	printf("Dividend Rate: 0.03\n");
+	printf("Cash per week: $0\n");
+
+	double shares = 3033.5263;
+	double cash = 0;
 	double dividend = 0;
-	double price = 5.38;
-	double dividendRate = 0.0408;
+	double price = 3.83;
+	double dividendRate = 0.03;
 	double cashForStocksPerWeek = 0;
 	unsigned short year = 0;
 	unsigned short monthsPerDividend = 1;
-*/	
-	
+			/*
+
 
 	// PVL
 	printf("PVL\n");
@@ -56,7 +62,6 @@ int main()
 	double cashForStocksPerWeek = 500;
 	unsigned short year = 0;
 	unsigned short monthsPerDividend = 1;
-		/*
 
 
 		// IGR
