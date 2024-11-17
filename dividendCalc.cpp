@@ -34,15 +34,15 @@ int main()
 
 	//PRT
 	printf("PRT\n");
-	printf("Price: $3.83\n");
-	printf("Dividend Rate: 0.03\n");
+	printf("Price: $3.93\n");
+	printf("Dividend Rate: 0.0302\n");
 	printf("Cash per week: $0\n");
 
-	double shares = 3033.5263;
+	double shares = 3429.5263;
 	double cash = 0;
 	double dividend = 0;
-	double price = 3.83;
-	double dividendRate = 0.03;
+	double price = 3.93;
+	double dividendRate = 0.0302;
 	double cashForStocksPerWeek = 0;
 	unsigned short year = 0;
 	unsigned short monthsPerDividend = 1;
@@ -247,6 +247,7 @@ double stockValue = 0;
     	year ++;
     	printf("Year: %d\n", year);
 	}
+/*
 	
 		for (int i  = 0; i < (10); i ++)
 	{
@@ -308,5 +309,6 @@ double stockValue = 0;
     	printf("Year: %d\n", year);
 	}
 	printf("After fifty years\n");
+*/
 	return 0;
 }
