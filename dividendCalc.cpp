@@ -30,23 +30,23 @@ int main()
 	unsigned short monthsPerDividend = 3;
 
 
-*/	
 
 	//PRT
 	printf("PRT\n");
-	printf("Price: $3.93\n");
-	printf("Dividend Rate: 0.0302\n");
+	printf("Price: $4.15\n");
+	printf("Dividend Rate: 0.0403\n");
 	printf("Cash per week: $0\n");
 
-	double shares = 3429.5263;
+	double shares = 6115.5263;
 	double cash = 0;
 	double dividend = 0;
-	double price = 3.93;
-	double dividendRate = 0.0302;
+	double price = 4.15;
+	double dividendRate = 0.0403;
 	double cashForStocksPerWeek = 0;
 	unsigned short year = 0;
 	unsigned short monthsPerDividend = 1;
 			/*
+*/	
 
 
 	// PVL

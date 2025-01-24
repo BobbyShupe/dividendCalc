@@ -1,0 +1,134 @@
+2024/12/24PRT
+Price: $3.62
+Dividend Rate: 0.0503
+Cash per week: $0
+shares: 3604.5263 Stock Value: $13048.3852 dividend: $181.3077
+shares: 3654.6113 Stock Value: $13229.6929 dividend: $183.8269
+shares: 3705.3922 Stock Value: $13413.5198 dividend: $186.3812
+shares: 3756.8787 Stock Value: $13599.9011 dividend: $188.9710
+shares: 3809.0807 Stock Value: $13788.8721 dividend: $191.5968
+shares: 3862.0080 Stock Value: $13980.4688 dividend: $194.2590
+shares: 3915.6707 Stock Value: $14174.7278 dividend: $196.9582
+shares: 3970.0790 Stock Value: $14371.6860 dividend: $199.6950
+shares: 4025.2434 Stock Value: $14571.3810 dividend: $202.4697
+shares: 4081.1742 Stock Value: $14773.8508 dividend: $205.2831
+shares: 4137.8823 Stock Value: $14979.1338 dividend: $208.1355
+shares: 4195.3783 Stock Value: $15187.2693 dividend: $211.0275
+Year: 1
+shares: 4253.6732 Stock Value: $15398.2968 dividend: $213.9598
+shares: 4312.7781 Stock Value: $15612.2566 dividend: $216.9327
+shares: 4372.7042 Stock Value: $15829.1893 dividend: $219.9470
+shares: 4433.4631 Stock Value: $16049.1364 dividend: $223.0032
+shares: 4495.0662 Stock Value: $16272.1395 dividend: $226.1018
+shares: 4557.5252 Stock Value: $16498.2414 dividend: $229.2435
+shares: 4620.8522 Stock Value: $16727.4849 dividend: $232.4289
+shares: 4685.0590 Stock Value: $16959.9138 dividend: $235.6585
+shares: 4750.1581 Stock Value: $17195.5722 dividend: $238.9330
+shares: 4816.1617 Stock Value: $17434.5052 dividend: $242.2529
+shares: 4883.0824 Stock Value: $17676.7581 dividend: $245.6190
+shares: 4950.9329 Stock Value: $17922.3772 dividend: $249.0319
+Year: 2
+shares: 5019.7263 Stock Value: $18171.4091 dividend: $252.4922
+shares: 5089.4755 Stock Value: $18423.9013 dividend: $256.0006
+shares: 5160.1939 Stock Value: $18679.9019 dividend: $259.5578
+shares: 5231.8949 Stock Value: $18939.4597 dividend: $263.1643
+shares: 5304.5923 Stock Value: $19202.6240 dividend: $266.8210
+shares: 5378.2997 Stock Value: $19469.4450 dividend: $270.5285
+shares: 5453.0313 Stock Value: $19739.9735 dividend: $274.2875
+shares: 5528.8014 Stock Value: $20014.2609 dividend: $278.0987
+shares: 5605.6242 Stock Value: $20292.3597 dividend: $281.9629
+shares: 5683.5145 Stock Value: $20574.3225 dividend: $285.8808
+shares: 5762.4871 Stock Value: $20860.2033 dividend: $289.8531
+shares: 5842.5570 Stock Value: $21150.0564 dividend: $293.8806
+Year: 3
+shares: 5923.7395 Stock Value: $21443.9370 dividend: $297.9641
+shares: 6006.0500 Stock Value: $21741.9011 dividend: $302.1043
+shares: 6089.5043 Stock Value: $22044.0055 dividend: $306.3021
+shares: 6174.1181 Stock Value: $22350.3075 dividend: $310.5581
+shares: 6259.9076 Stock Value: $22660.8657 dividend: $314.8734
+shares: 6346.8892 Stock Value: $22975.7390 dividend: $319.2485
+shares: 6435.0794 Stock Value: $23294.9876 dividend: $323.6845
+shares: 6524.4950 Stock Value: $23618.6720 dividend: $328.1821
+shares: 6615.1531 Stock Value: $23946.8541 dividend: $332.7422
+shares: 6707.0708 Stock Value: $24279.5963 dividend: $337.3657
+shares: 6800.2657 Stock Value: $24616.9620 dividend: $342.0534
+shares: 6894.7556 Stock Value: $24959.0154 dividend: $346.8062
+Year: 4
+shares: 6990.5584 Stock Value: $25305.8216 dividend: $351.6251
+shares: 7087.6925 Stock Value: $25657.4467 dividend: $356.5109
+shares: 7186.1761 Stock Value: $26013.9576 dividend: $361.4647
+shares: 7286.0283 Stock Value: $26375.4223 dividend: $366.4872
+shares: 7387.2678 Stock Value: $26741.9095 dividend: $371.5796
+shares: 7489.9141 Stock Value: $27113.4891 dividend: $376.7427
+shares: 7593.9867 Stock Value: $27490.2317 dividend: $381.9775
+shares: 7699.5053 Stock Value: $27872.2093 dividend: $387.2851
+shares: 7806.4902 Stock Value: $28259.4944 dividend: $392.6665
+shares: 7914.9616 Stock Value: $28652.1608 dividend: $398.1226
+shares: 8024.9402 Stock Value: $29050.2834 dividend: $403.6545
+shares: 8136.4469 Stock Value: $29453.9379 dividend: $409.2633
+Year: 5
+shares: 8249.5031 Stock Value: $29863.2012 dividend: $414.9500
+shares: 8364.1302 Stock Value: $30278.1512 dividend: $420.7157
+shares: 8480.3500 Stock Value: $30698.8669 dividend: $426.5616
+shares: 8598.1847 Stock Value: $31125.4285 dividend: $432.4887
+shares: 8717.6567 Stock Value: $31557.9172 dividend: $438.4981
+shares: 8838.7888 Stock Value: $31996.4154 dividend: $444.5911
+shares: 8961.6040 Stock Value: $32441.0064 dividend: $450.7687
+shares: 9086.1257 Stock Value: $32891.7751 dividend: $457.0321
+shares: 9212.3777 Stock Value: $33348.8072 dividend: $463.3826
+shares: 9340.3839 Stock Value: $33812.1898 dividend: $469.8213
+shares: 9470.1688 Stock Value: $34282.0111 dividend: $476.3495
+shares: 9601.7571 Stock Value: $34758.3606 dividend: $482.9684
+Year: 6
+shares: 9735.1738 Stock Value: $35241.3290 dividend: $489.6792
+shares: 9870.4443 Stock Value: $35731.0083 dividend: $496.4833
+shares: 10007.5944 Stock Value: $36227.4916 dividend: $503.3820
+shares: 10146.6502 Stock Value: $36730.8736 dividend: $510.3765
+shares: 10287.6381 Stock Value: $37241.2501 dividend: $517.4682
+shares: 10430.5852 Stock Value: $37758.7183 dividend: $524.6584
+shares: 10575.5184 Stock Value: $38283.3767 dividend: $531.9486
+shares: 10722.4656 Stock Value: $38815.3253 dividend: $539.3400
+shares: 10871.4545 Stock Value: $39354.6653 dividend: $546.8342
+shares: 11022.5137 Stock Value: $39901.4995 dividend: $554.4324
+shares: 11175.6718 Stock Value: $40455.9319 dividend: $562.1363
+shares: 11330.9581 Stock Value: $41018.0682 dividend: $569.9472
+Year: 7
+shares: 11488.4020 Stock Value: $41588.0154 dividend: $577.8666
+shares: 11648.0337 Stock Value: $42165.8820 dividend: $585.8961
+shares: 11809.8835 Stock Value: $42751.7781 dividend: $594.0371
+shares: 11973.9821 Stock Value: $43345.8153 dividend: $602.2913
+shares: 12140.3609 Stock Value: $43948.1066 dividend: $610.6602
+shares: 12309.0516 Stock Value: $44558.7667 dividend: $619.1453
+shares: 12480.0862 Stock Value: $45177.9120 dividend: $627.7483
+shares: 12653.4973 Stock Value: $45805.6604 dividend: $636.4709
+shares: 12829.3180 Stock Value: $46442.1313 dividend: $645.3147
+shares: 13007.5818 Stock Value: $47087.4460 dividend: $654.2814
+shares: 13188.3225 Stock Value: $47741.7273 dividend: $663.3726
+shares: 13371.5746 Stock Value: $48405.0999 dividend: $672.5902
+Year: 8
+shares: 13557.3730 Stock Value: $49077.6902 dividend: $681.9359
+shares: 13745.7530 Stock Value: $49759.6260 dividend: $691.4114
+shares: 13936.7507 Stock Value: $50451.0374 dividend: $701.0186
+shares: 14130.4022 Stock Value: $51152.0559 dividend: $710.7592
+shares: 14326.7445 Stock Value: $51862.8152 dividend: $720.6352
+shares: 14525.8150 Stock Value: $52583.4504 dividend: $730.6485
+shares: 14727.6516 Stock Value: $53314.0989 dividend: $740.8009
+shares: 14932.2928 Stock Value: $54054.8998 dividend: $751.0943
+shares: 15139.7774 Stock Value: $54805.9941 dividend: $761.5308
+shares: 15350.1450 Stock Value: $55567.5249 dividend: $772.1123
+shares: 15563.4357 Stock Value: $56339.6372 dividend: $782.8408
+shares: 15779.6901 Stock Value: $57122.4780 dividend: $793.7184
+Year: 9
+shares: 15998.9493 Stock Value: $57916.1964 dividend: $804.7471
+shares: 16221.2551 Stock Value: $58720.9436 dividend: $815.9291
+shares: 16446.6499 Stock Value: $59536.8727 dividend: $827.2665
+shares: 16675.1766 Stock Value: $60364.1392 dividend: $838.7614
+shares: 16906.8786 Stock Value: $61202.9006 dividend: $850.4160
+shares: 17141.8002 Stock Value: $62053.3166 dividend: $862.2325
+shares: 17379.9860 Stock Value: $62915.5491 dividend: $874.2133
+shares: 17621.4813 Stock Value: $63789.7624 dividend: $886.3605
+shares: 17866.3323 Stock Value: $64676.1230 dividend: $898.6765
+shares: 18114.5855 Stock Value: $65574.7995 dividend: $911.1637
+shares: 18366.2882 Stock Value: $66485.9631 dividend: $923.8243
+shares: 18621.4882 Stock Value: $67409.7874 dividend: $936.6609
+Year: 10
